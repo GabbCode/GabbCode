@@ -1,23 +1,38 @@
-# Olá 👋 
+<div align="center">
+  <br>
+    <img 
+      width="680"
+      src="https://miro.medium.com/v2/resize:fit:1400/1*U1Xyv05nguozQvN0cNt3UA.gif"
+      alt="Animação Geométrica">
+  <br><br>
+  <h1>GabbCode</h1>
+</div>
 
-```É um prazer fazer parte desta maravilinda comunidade de programadores!```
+Olá. Sou iniciante em programação e um entusiasta da computação. Tenho imaginação mais do que fértil, e sou bom em resolver alguns problemas.
 
-Me chamo **VGS Fonseca**, sou estudante solo de programação e de computação em geral. Atualmente me considero um `desenvolvedor fullstack`.
+<div align="center">
+  <h2>Full-Stack</h2>
+</div>
 
-```Um entusiasta do conhecimento.```
+Atualmente estudo desenvolvimento Full-Stack e computação matemática.
 
-**Vamos fazer programas?** Até!
-
-# 📊 | Habilidades
-
-1. Comunicativo;
-1. Sociável (🫣);
-1. Destaque acadêmico;
-1. Bom em resolver problemas.
-
-# 📚 | Linguagens Utilizadas
-
-LaTeX, TeX, python, markdown
+<div align="center">
+  <h2>Ferramentas</h2>
+  <img 
+    width="200"
+    src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"
+    alt="LaTeX">
+  <br><br>
+  <img 
+    width="200"
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python">
+  <br><br>
+  <img
+    width="200"
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git">
+</div>
 
 <!--
 **GabbCode/GabbCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
