@@ -1,10 +1,4 @@
 <div align="center">
-  <br>
-    <img 
-      width="680"
-      src="https://miro.medium.com/v2/resize:fit:1400/1*U1Xyv05nguozQvN0cNt3UA.gif"
-      alt="Animação Geométrica">
-  <br><br>
   <h1>GabbCode</h1>
 </div>
 
